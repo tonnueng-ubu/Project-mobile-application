@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1056370970661",
+    "firebase_url": "https://loginregister-bff60-default-rtdb.firebaseio.com",
+    "project_id": "loginregister-bff60",
+    "storage_bucket": "loginregister-bff60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056370970661:android:cf761f2f9c3b835ddc6fcc",
+        "android_client_info": {
+          "package_name": "com.example.loginregisterfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056370970661-9rv8ttmm2ge7d9o6p70n9mkjvuqfcjst.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginregisterfirebase",
+            "certificate_hash": "edd9e410284e3fc702d9b4a2938fb25cf8992ac5"
+          }
+        },
+        {
+          "client_id": "1056370970661-4gpt0cdmvm0jcni3b6tk89tpo26e59tm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjh2LWYmGsHWBQzEg18WNV3juWjyOCq0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056370970661-4gpt0cdmvm0jcni3b6tk89tpo26e59tm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
